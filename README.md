@@ -1,6 +1,5 @@
 #coding:utf-8
 
-# Import et couleur pris de internet (Pas encore appris)
 import os
 
 os.system("cls")
@@ -25,7 +24,6 @@ def colorText(text):
         text = text.replace("[[" + color + "]]", COLORS[color])
     return text
 
-# Création de l'accés normal
 colorall = "[[blue]] [[cyan]]"
 print(colorText(colorall))
 
