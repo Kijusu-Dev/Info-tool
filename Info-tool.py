@@ -1,5 +1,5 @@
 #coding:utf-8
-#Dev Kijusu Alias ZenKir
+#Dev Kijusu
 
 import os
 
